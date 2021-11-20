@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
+   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://i.imgur.com/8Sj1dzL.png" alt="Cronus Max"></a>
   <br>
   Red Discord Bot
   <br>
