@@ -1,0 +1,24 @@
+int rapid_onoff   = FALSE; // if TRUE Rapidfire is ON by default - if FALSE, OFF by default
+main {
+
+ 	if(event_press(XB1_Y)){
+   	combo_run (VIBRATE);
+   		rapid_onoff = !rapid_onoff;
+   	}
+    if (rapid_onoff){  
+    	if(get_val(XB1_RT)){
+    		combo_run(RapidFire);
+    	}}}
+
+combo RapidFire{
+    set_val(PS4_R2, 100);
+    wait(10);
+    set_val(PS4_R2, 0);
+    wait(10);
+    set_val(PS4_R2, 0);              
+}    
+ combo VIBRATE {                                      
+    set_rumble(1, 100);                    
+    wait(300);                                       
+    reset_rumble();                                  
+}
