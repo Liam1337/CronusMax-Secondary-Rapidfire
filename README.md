@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Secondary Rapidfire for each game, optimized for playstation 4</h4>
+<h4 align="center">Secondary Rapidfire For Each Game, Optimized For Playstation 4</h4>
 
 <p align="center">
   <a href="https://www.cronusmax.com/">CronusMax</a>
