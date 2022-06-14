@@ -19,5 +19,5 @@
   •
   <a href="https://www.cronusmax.com/forums/">Community</a>
   •
-  <a href="#license">Source Made by Liam1337</a>
+  <a href="#license">Source Made by XIM1337</a>
 </p>
